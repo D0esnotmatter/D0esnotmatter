@@ -1,8 +1,7 @@
-- 👋 Hi, my name is Konstantin Kopylov, begginer data scientist.
-- 👀 I’m interested in DS, ML, motorcycles.
+-  Hi, my name is Konstantin Kopylov, begginer data scientist.
+-  I’m interested in DS, ML, motorcycles.
 -  I’m currently learning ML at Karpov.Courses "Start ML" course"
-- 📫 livfstdieyng@gmail.com
-- tg: https://t.me/d0esnotmatter
+
 
 ### :hammer_and_wrench: Languages and Tools :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)	![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)

@@ -1,6 +1,5 @@
 -  Hi, my name is Konstantin Kopylov, begginer data scientist.
 -  I’m interested in DS, ML, motorcycles.
--  I’m currently learning ML at Karpov.Courses "Start ML" course"
 
 
 ### :hammer_and_wrench: Languages and Tools :
